@@ -103,14 +103,8 @@ sub {
 }
 
 img {
-    border: 0;
+    border: 0
 }
-
-.citation{
-    width: 100%;
-}
-
-
 
 svg:not(:root) {
     overflow: hidden
